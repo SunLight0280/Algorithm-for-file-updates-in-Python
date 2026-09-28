@@ -3,8 +3,8 @@ This project uses Python to automate the process of updating an IP address allow
 
 This project demonstrates basic Python programming concepts along with file handling techniques that can be useful in cybersecurity and system administration.
 
-**What the Project Does**
-The program:
+**What the Project Does
+The program:**
 
 Opens the allow_list.txt file.
 
@@ -22,8 +22,8 @@ Converts the updated list back into a string.
 
 Writes the updated list back to the file.
 
-**Python Concepts Used**
-Variables
+**Python Concepts Used
+Variables**
 
 Functions
 
